@@ -40,7 +40,7 @@ main {
 
 @media (min-width: 1024px) {
     .logo {
-        width: 30rem; /* Vielä suurempi logo, kun leveys on vähintään 1024px */
+        width: 20rem; /* Vielä suurempi logo, kun leveys on vähintään 1024px */
     }
 }
 
@@ -105,7 +105,7 @@ footer {
     background-color: rgba(224, 224, 224, 0.8); /* Läpinäkyvä tausta */
     color: #333;
     text-align: center;
-    padding: 5px 0; /* Ylä- ja alapadding */
+    padding: 10px 0; /* Ylä- ja alapadding */
     width: 100%; /* Kokoleveydeltä */
     box-shadow: 0px -1px 5px rgba(0, 0, 0, 0.9); /* Kevyt varjo */
     height: 1vh; /* Kiinteä korkeus */
