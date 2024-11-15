@@ -6,7 +6,7 @@ body {
     justify-content: flex-startcenter; /* Sijoitetaan elementit ylhäältä alkaen */
     align-items: center; /* Keskitetään vaakasuunnassa */
     min-height: 100vh; /* Käytä vähintään koko näkymän korkeutta */
-    background-color: rgb(255, 255, 255); /* Taustaväri */
+    background-color: rgb(15, 15, 15); /* Taustaväri */
 }
 
 .content {
@@ -80,7 +80,7 @@ h1 {
     font-size: 20px; /* Suurentaa otsikon kokoa */
     text-align: center; /* Keskittää otsikon */
     margin-top: 4rem; /* Lisää tilaa ylle */
-    color: #3c113e; /* Otsikon väri */
+    color: #ffffff; /* Otsikon väri */
     justify-content: center; /* Keskitetään vaakasuunnassa */
 }
 
@@ -88,7 +88,7 @@ h2 {
     font-size: 16px; /* Suurentaa otsikon kokoa */
     text-align: center; /* Keskittää otsikon */
     margin-top: 2rem; /* Lisää tilaa ylle */
-    color: #3c113e; /* Otsikon väri */
+    color: #ffffff; /* Otsikon väri */
     justify-content: center; /* Keskitetään vaakasuunnassa */
 }
 
@@ -96,14 +96,14 @@ p {
     font-size: 12px; /* Suurentaa otsikon kokoa */
     text-align: center; /* Keskittää otsikon */
     margin-top: 1rem; /* Lisää tilaa ylle */
-    color: #3c113e; /* Otsikon väri */
+    color: #000000; /* Otsikon väri */
     justify-content: center; /* Keskitetään vaakasuunnassa */
 }
 
 /* Footer */
 footer {
-    background-color: rgba(224, 224, 224, 0.8); /* Läpinäkyvä tausta */
-    color: #333;
+    background-color: rgb(255, 255, 255); /* Läpinäkyvä tausta */
+    color: #ffffff;
     text-align: center;
     padding: 10px 0; /* Ylä- ja alapadding */
     width: 100%; /* Kokoleveydeltä */
